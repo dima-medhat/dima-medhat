@@ -1,34 +1,28 @@
-# Hi, I'm Dima Medhat 👋
+# Dima M. Alshurafa
 
-### Data Analyst | Python | SQL | Machine Learning
+### Aspiring Data Analyst | Python | SQL | Excel | AI & Machine Learning
 
-I am a Computer Engineering student interested in data analysis,
-machine learning, and AI applications.
+Computer Engineering student interested in data analysis, machine learning, and AI applications.
 
-I enjoy working with data to clean, analyze, visualize, and transform
-datasets into meaningful insights.
+I work with data to clean, analyze, visualize, and extract meaningful insights using Python, SQL, and Excel.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-- Python
-- SQL
-- Excel
-- Pandas & NumPy
-- Matplotlib & Plotly
-- Scikit-learn
-- Streamlit
-- Jupyter Notebook
-- Git & GitHub
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Excel
+- **Data Visualization:** Matplotlib, Plotly
+- **Machine Learning:** Scikit-learn
+- **Tools:** Jupyter Notebook, Google Colab, Streamlit, Git & GitHub
 
-## 📊 Featured Projects
+## Areas of Interest
 
-- Online Retail Sales Analysis
-- Adult Income Prediction
-- Titanic Feature Engineering & EDA
-- Titanic Data Cleaning & Preprocessing
-- Gemini AI Chatbot
+- Data Analysis
+- Data Visualization
+- Machine Learning
+- Artificial Intelligence
+- Data-driven Problem Solving
 
-## 📫 Connect With Me
+## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/dima-m-alshurafa-6663a7352/)
 - [GitHub](https://github.com/dima-medhat)
