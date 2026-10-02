@@ -30,5 +30,5 @@ datasets into meaningful insights.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [dima-medhat](www.linkedin.com/in/dima-m-alshurafa-6663a7352)
+- LinkedIn: [dima-medhat](www.linkedin.com/in/dima-m-alshurafa)
 - GitHub: [dima-medhat](https://github.com/dima-medhat)
