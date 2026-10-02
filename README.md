@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Dima Medhat 👋
 
-<!--
-**dima-medhat/dima-medhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Python | SQL | Machine Learning
 
-Here are some ideas to get you started:
+I am a Computer Engineering student interested in data analysis,
+machine learning, and AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data to clean, analyze, visualize, and transform
+datasets into meaningful insights.
+
+## 🛠️ Technical Skills
+
+- Python
+- SQL
+- Excel
+- Pandas & NumPy
+- Matplotlib & Plotly
+- Scikit-learn
+- Streamlit
+- Jupyter Notebook
+- Git & GitHub
+
+## 📊 Featured Projects
+
+- Online Retail Sales Analysis
+- Adult Income Prediction
+- Titanic Feature Engineering & EDA
+- Titanic Data Cleaning & Preprocessing
+- Gemini AI Chatbot
+
+## 📫 Connect With Me
+
+- LinkedIn: [dima-medhat](www.linkedin.com/in/dima-m-alshurafa-6663a7352)
+- GitHub: [dima-medhat](https://github.com/dima-medhat)
